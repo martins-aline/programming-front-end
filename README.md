@@ -1,3 +1,5 @@
 ### Programação Front-End
 
-#### Boas práticas ao usar Git/GitHub
+Veja um pouco do que tenho estudado:
+
+- Versionamento de código e boas práticas.
