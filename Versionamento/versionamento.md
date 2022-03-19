@@ -1,6 +1,6 @@
 ### Versionamento 
 
- O controle de versão, é a prática de rastrear e gerenciar as alterações feitas em um código de softwar, e mais, ele também registra quem efetuou a mudança e permite a restauração do código removido ou modificado.
+ O controle de versão, é a prática de rastrear e gerenciar as alterações feitas em um código de software, e mais, ele também registra quem efetuou a mudança e permite a restauração do código removido ou modificado.
 
 
 ### Git
@@ -8,7 +8,7 @@
  
 ### GitHub
 
-GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+GitHub é um serviço baseado em nuvem que hospeda o sistema de controle de versão (VCS) Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
 
 ### Principais comandos: 
 
