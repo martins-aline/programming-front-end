@@ -23,14 +23,20 @@ GitHub é um serviço baseado em nuvem que hospeda o sistema de controle de vers
 
  - `git clone <https://url-do-link>`  Quando você clonar um repositório, o código é copiado para a o seu computador e continua linkado ao original.
 
- -  `git branch <nome-da-branch>`  Este comando criará uma branch local. Para upar a nova branch para o repositório remoto, você precisa usar o seguinte comando: `git push -u <remote> <nome-da-branch>`.
+ -  `git branch <nome-da-branch>`  Este comando criará uma branch local. Para 'subir' a nova branch para o repositório remoto, você precisa usar o seguinte comando: `git push -u <remote> <nome-da-branch>`.
 
 
  - `git pull <remote>` O comando git pull é usado para obter as atualizações do repositório remoto. O comando de pull depende do referencial de onde ele foi feito, isso significa que um git pull feito da sua máquina vai puxar informações do repositório original para ela.
 
 
  - `git merge <nome-da-branch>`  Esse comando vai mesclar, no seu repositório local, todas as alterações feitas.
+  
+  
+ - `git checkout` comando usado para se movimentar entre as branches, se passar o complemento `-b ` (que significa branch) isso criará uma nova branche e irá pra ela.
  
+ - `git show-branche` mostra em qual branche você está trabalhando.
+    
+   
 - Dica: Dê uma olhada na documentação oficial do Git.
 
  
